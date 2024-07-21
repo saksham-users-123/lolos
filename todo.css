@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-size: 1.8em;
+    background-color: rgb(237, 237, 246);
+}
+
+.todo-name{
+    text-align: center;
+}
+
+#Text-todo{
+    color: black;
+    border-radius: 2em;
+    border:1px solid black;
+    font-size: large;
+    margin: 1em;
+}
+#date_time{
+    border-radius: 2em;
+    border:1px solid black;
+    font-size: large;
+}
+#add_btn{
+    border-radius: 2em;
+    background-color: aquamarine;
+    color:rgb(234, 43, 22);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 800;
+    border:1px solid black;
+    font-size: large;
+    margin: 1em;
+    width: 5em;
+}
